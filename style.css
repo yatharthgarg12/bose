@@ -550,6 +550,19 @@
         display: none;
     }
 
+    .mobile-nav img{
+        margin: 0px;
+    }
+
+    .mobile-nav i{
+        color: white;
+        font-size: 30px;
+        position: absolute;
+        top: 30px;
+        left: 40px;
+    }
+
+    
     .card-section{
         width: 100vw;
         display: grid;
